@@ -1,0 +1,51 @@
+DIV2K.zip
+DIV2K.tar
+Set5.zip
+
+D:\Tushar Files\Tache_Workspace\adaptive-craft\DIV2K.tar
+D:\Tushar Files\Tache_Workspace\adaptive-craft\DIV2K.zip
+
+# Model files (large)
+*.pth
+*.pt
+*.pkl
+CRAFT_MODEL_x4.pth
+
+# Datasets
+Set5/
+DIV2K/
+
+# Backup/duplicate folders
+pipipopo/
+
+# Jupyter notebooks with outputs
+*.ipynb
+.ipynb_checkpoints/
+
+# Python/environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build artifacts
+*.log
+out.txt
+
+pipipopo/
+
+# Common Python/environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Output files
+out.txt
+*.log
+
+# Datasets
+Set5/
+DIV2K/
